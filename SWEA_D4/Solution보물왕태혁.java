@@ -5,7 +5,9 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Arrays;
 import java.util.StringTokenizer;
-
+// D4문제 치고 너무 쉬움...
+// IM정도 수준...
+// 약수가 먼지 알고만 있으면 금방 풀 수 있음.
 public class Solution보물왕태혁 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
